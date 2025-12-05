@@ -1,0 +1,9 @@
+{
+  "network": "Sepolia Network",
+  "chainId": 999666,
+  "rpcUrl": "https://rpc.sepolia.org",
+  "contractAddress": "0xC6965d279c6F156009f1c1986dfC6d82ecC6E431",
+  "deployedBy": "0x3E8e877b88F0Fa014421aBf6954Aabb1Ee2d51BE",
+  "deployedAt": "2025-12-02T13:49:48.432Z",
+  "blockNumber": 9753314
+}
